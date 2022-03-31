@@ -1,1 +1,1 @@
-web: gunicorn quant_dolar_api:app
+web: gunicorn quant_api:app
